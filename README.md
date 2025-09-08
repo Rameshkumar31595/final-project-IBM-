@@ -14,3 +14,6 @@ This project demonstrates:
 - Creating and managing a GitHub repository
 - Adding important community files
 - Writing a simple shell script (`simple-interest.sh`) to calculate simple interest
+
+- This line was added in the bug-fix-typo branch.
+
